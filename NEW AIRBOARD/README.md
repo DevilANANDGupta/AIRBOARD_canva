@@ -9,7 +9,7 @@ This repository contains the notebook for running the Virtual Pen & Eraser Pipel
 
 Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/courses/) is a great place to start.
 
-<a href="https://opencv.org/courses/">
+<a href="/">
 <p align="center">
 <img src="https://www.learnopencv.com/wp-content/uploads/2020/04/AI-Courses-By-OpenCV-Github.png">
 </p>
