@@ -6,6 +6,7 @@ load_from_disk = True
 if load_from_disk:
     penval = np.load('penval.npy')
 
+    
 
 cap = cv2.VideoCapture(0)
 cap.set(3,1280)
